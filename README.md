@@ -9,6 +9,5 @@ Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering s
 3. Enjoy :3
 
 ### Note
-- Try interacting with every NPC you find, to get the full experience of the game.  
-
+- Try interacting with every NPC you find
 
