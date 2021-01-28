@@ -23,7 +23,7 @@ Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering s
 ![Interacting with Mysterious Merchant](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/secretroom.PNG?raw=true)
 
 #### Combat
-![Battling Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level1.PNG?raw=true)
+![Battling Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level1.png?raw=true)
 ![Red and Blue Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level2.PNG?raw=true)
 
 #### Discover secret rooms
