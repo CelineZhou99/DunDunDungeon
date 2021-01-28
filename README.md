@@ -18,9 +18,9 @@ Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering s
 ![options](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/options.png?raw=true)
 
 #### Interacting with NPCs
+![Interacting with Mysterious Merchant](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/secretroom.PNG?raw=true)
 ![Interacting with Red Knight](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/main.png?raw=true)
 ![Interacting with Orange Knight](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/hallway.png?raw=true)
-![Interacting with Mysterious Merchant](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/secretroom.PNG?raw=true)
 
 #### Combat
 ![Battling Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level1.png?raw=true)
