@@ -4,7 +4,7 @@ Classic 16 bit pixel graphics packed with lots of cute bit musics to enjoy.
 Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering secret rooms, and collecting coins.  
 
 ## Installation instructions
-1. Download the Setup file.
+1. Download the Setup file. (NOTE: windows setup only)
 2. Open up the file and follow the download instructions.
 3. Enjoy :3
 
