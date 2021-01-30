@@ -14,18 +14,20 @@ Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering s
 ### Gallery
 #### Start Menu
 ![Start Menu](screenshots/startmenu.png)
-![How To Play](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/howtoplay.png?raw=true)
-![options](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/options.png?raw=true)
+![How To Play](screenshots/howtoplay.png)
+![Options](screenshots/options.png)
 
 #### Interacting with NPCs
-![Interacting with Mysterious Merchant](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/secretroom.PNG?raw=true)
+![Interacting with Red Knight](screenshots/main.PNG)
+![Interacting with Orange Knight](screenshots/hallway.PNG)  
+![Interacting with Mysterious Merchant](screenshots/secretroom.PNG)
 
 #### Combat
-![Battling Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level1.png?raw=true)
-![Red and Blue Slimes](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/level2.PNG?raw=true)
+![Battling Slimes](screenshots/level1.png)
+![Red and Blue Slimes](screenshots/level2.PNG)
 
 #### Discover secret rooms
-![Secret room full of gold](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/secretbank.PNG?raw=true)
+![Secret room full of gold](screenshots/secretbank.PNG)
 
 #### There is always a second chance, or third, or fourth...
-![Game Over](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/gameover.PNG?raw=true)
+![Game Over](screenshots/gameover.PNG)
