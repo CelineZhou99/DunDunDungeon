@@ -13,7 +13,7 @@ Enjoy interacting with unique NPCs, slaying monsters, leveling up, discovering s
 
 ### Gallery
 #### Start Menu
-![Start Menu](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/startmenu.png?raw=true)
+![Start Menu](screenshots/startmenu.png)
 ![How To Play](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/howtoplay.png?raw=true)
 ![options](https://github.com/CelineZhou3105/DunDunDungeon/blob/main/options.png?raw=true)
 
